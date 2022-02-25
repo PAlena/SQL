@@ -1,6 +1,0 @@
-everything:
-SELECT * FROM tutorial.us_housing_units
-specific columns:
-SELECT year, month, west FROM tutorial.us_housing_units
-SELECT indicates which columns you'd like to view, and FROM identifies the table that they live in.
-
